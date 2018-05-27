@@ -1,0 +1,19 @@
+{
+    "name": "andrewjc/exchange-simulator",
+    "type": "library",
+    "description": "A crypto currency exchange simulator used for developing bots.",
+    "keywords": ["crypto", "exchange simulator", "bot backtesting"],
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Andrew Cranston",
+            "email": "andrew.cranston@gmail.com",
+            "homepage": "http://andrewjc.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "mongodb/mongodb": "^1.3@dev",
+        "jacwright/restserver": ">=1.2.0"
+    }}
